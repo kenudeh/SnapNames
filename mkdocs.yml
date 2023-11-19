@@ -1,0 +1,14 @@
+site_name: SnapNames
+site_url: https://kenudeh.github.io/snapnames
+nav:
+  -  Overview: index.md
+  -  Backorders: backorders.md
+  -  Verification : verification.md
+  -  Marketplace: marketplace.md
+  -  Auctions: auctions.md
+  -  Payment: payment.md
+  -  FAQs: faqs.md
+  -  Glossary: glossary.md
+theme: readthedocs
+markdown_extentions :
+  - attr_list 
