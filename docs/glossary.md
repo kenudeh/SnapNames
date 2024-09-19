@@ -1,30 +1,30 @@
 
 
-1. **Backorder**: A backorder is an official request to register a domain name on your behalf. This is usually applicable to expired and soon-to-be-deleted names.
+1. **Backorder**: A request to register a domain name on your behalf, usually for expired or soon-to-be-deleted names.
 <br></br>
 
-2. **Cut-off time**: The time of the day at which you cannot place new backorders - or modify an existing one - for names dropping that day. This corresponds to 10:45 a.m. daily.
+2. **Cut-off time**: The deadline for placing or modifying backorders for domain names dropping on that day.
 <br></br> 
 
-3. **Domain name**: A domain name is a unique address for locating web resources. Examples include SnapNames.com, Apple.com, etc.
+3. **Domain name**: A unique address used to locate web resources, such as SnapNames.com or Facebook.com.
 <br></br>
 
-4. **Extension (also known as Top Level Domain)**: The suffix that follows a domain name in a web address. Examples of domain name extensions are .com, .net, .org, and many more.
+4. **Extension**: The suffix that comes after a domain name in a web address (e.g., .com, .net, .org).
 <br></br>
 
-5. **Pending delete**: Domain names that are about to be deleted by the central registry.
+5. **Pending delete**: Domain names that are scheduled to be deleted by the central registry.
 <br></br>
 
-6. **Registry (or The Central registry)**: The organization that manages domain name extensions, such as .com, .net, .co, etc.
+6. **Registry (or The Central registry)**: The organization responsible for managing domain name extensions like .com, .net, and .co.
 <br></br>
 
-7. **Registrant**: The individual or organization who registers/owns a domain name.
+7. **Registrant**: The individual or organization that registers and owns a domain name.
 <br></br>
 
-8. **Registrar**: The intermediaries between the central registry and the registrant. NetworkSolutions is an example of one.
+8. **Registrar**: Intermediaries between the central registry and the registrant. NetworkSolutions is an example.
 <br></br>
 
-9. **The drop**: The process of deleting expired domain names at the registry level.
+9. **Drop**: The process by which expired domain names are deleted at the registry level.
 <br></br>
 
 

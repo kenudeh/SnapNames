@@ -1,13 +1,13 @@
 ## Account verification
-You need a verified account to place backorders or participate in our auctions. To verify your account, go through the following steps:
+To place backorders or participate in our auctions, you need a verified account. Follow these steps to verify your account:
 
-1. Download and fill out the [Verified Bidder](https://snapnames.com/files/Snapnames_Verified_Bidder_Form.pdf) application form (pdf 149kb).
+1. Download and complete out the [Verified Bidder](https://snapnames.com/files/Snapnames_Verified_Bidder_Form.pdf) application form (PDF, 149kb)
 <br></br> 
-2. Take a photo of any government-issued color photo ID (such as a passport or driver's licence).
+2. Photograph any government-issued color photo ID, such as a passport or driver’s license
 <br></br> 
-3. Open a [support ticket](https://snapnames.com/support) and submit the Verified Bidder form and a copy of the color photo ID.
+3. Open a [support ticket](https://snapnames.com/support) and submit the Verified Bidder form along with a copy of your photo ID
 
-Your application will take up to two business days to be processed. Please note that the personal information we collect is for fraud-prevention measures only. For more information on how we handle user data, see our [privacy policy](https://www.example.com).
+Your application will be processed within two business days. The personal information collected is used solely for fraud-prevention purposes. For details on how we handle user data, refer to our [privacy policy](https://www.snapnames.com/legal/legal.action).
 
 <br></br> 
 
