@@ -1,5 +1,5 @@
 
-![snapnames homepage](snapnames-homepage.png)
+![snapnames-homepage](snapnames-homepage.png)
 
 Domain names require annual renewal fees. When domain registrants fail to pay these fees, their domains expire and enter a “grace period” before being deleted by the central registry.
 
